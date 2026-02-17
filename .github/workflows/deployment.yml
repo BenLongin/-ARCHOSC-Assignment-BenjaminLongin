@@ -25,5 +25,3 @@ jobs:
 
    - name: Checkout Repository 
      uses: actions/deploy-pages@v4 
-
-  
