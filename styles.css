@@ -1,9 +1,9 @@
 h1{
     color: orangered;
 }
-name{
+.name{
     color: green;
 }
-description{
+.description{
     color:pink;
 }
